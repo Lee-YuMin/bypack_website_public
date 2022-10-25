@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bypack_website_public/static/css/main.789e9746.css",
-    "main.js": "/bypack_website_public/static/js/main.06ce8bfb.js",
+    "main.js": "/bypack_website_public/static/js/main.5a801db3.js",
     "static/js/787.e2da8346.chunk.js": "/bypack_website_public/static/js/787.e2da8346.chunk.js",
     "static/media/banner.png": "/bypack_website_public/static/media/banner.ac6878885bb0e78ee002.png",
     "static/media/swipe1.png": "/bypack_website_public/static/media/swipe1.7b5e5ccb7928440c77c2.png",
@@ -28,11 +28,11 @@
     "static/media/manufacture4.jpg": "/bypack_website_public/static/media/manufacture4.b694a38bab11ba595e02.jpg",
     "index.html": "/bypack_website_public/index.html",
     "main.789e9746.css.map": "/bypack_website_public/static/css/main.789e9746.css.map",
-    "main.06ce8bfb.js.map": "/bypack_website_public/static/js/main.06ce8bfb.js.map",
+    "main.5a801db3.js.map": "/bypack_website_public/static/js/main.5a801db3.js.map",
     "787.e2da8346.chunk.js.map": "/bypack_website_public/static/js/787.e2da8346.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.789e9746.css",
-    "static/js/main.06ce8bfb.js"
+    "static/js/main.5a801db3.js"
   ]
 }
